@@ -1,0 +1,24 @@
+{
+  "name": "trajectai-server",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "API TrajectAI : optimisation explicable des trajets multi-étapes, données ouvertes et assistant IA. Aucun trajet n'est stocké.",
+  "scripts": {
+    "dev": "node --watch src/index.js",
+    "start": "node src/index.js",
+    "refresh-data": "node scripts/refresh-data.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.5.0",
+    "helmet": "^8.0.0",
+    "zod": "^3.24.1"
+  }
+}

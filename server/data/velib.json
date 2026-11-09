@@ -1,0 +1,188 @@
+{
+ "source": "Vélib' Métropole — Disponibilité en temps réel",
+ "url": "https://opendata.paris.fr/explore/dataset/velib-disponibilite-en-temps-reel/",
+ "license": "ODbL",
+ "fetchedAt": "2026-09-29T13:38:40.068Z",
+ "zones": [
+  {
+   "arr": 1,
+   "mechanical": 265,
+   "ebike": 219,
+   "docks": 206,
+   "capacity": 710,
+   "stations": 25,
+   "zone": "1er"
+  },
+  {
+   "arr": 2,
+   "mechanical": 279,
+   "ebike": 230,
+   "docks": 253,
+   "capacity": 814,
+   "stations": 25,
+   "zone": "2e"
+  },
+  {
+   "arr": 3,
+   "mechanical": 172,
+   "ebike": 107,
+   "docks": 163,
+   "capacity": 456,
+   "stations": 15,
+   "zone": "3e"
+  },
+  {
+   "arr": 4,
+   "mechanical": 192,
+   "ebike": 124,
+   "docks": 377,
+   "capacity": 705,
+   "stations": 26,
+   "zone": "4e"
+  },
+  {
+   "arr": 5,
+   "mechanical": 429,
+   "ebike": 393,
+   "docks": 444,
+   "capacity": 1291,
+   "stations": 37,
+   "zone": "5e"
+  },
+  {
+   "arr": 6,
+   "mechanical": 292,
+   "ebike": 311,
+   "docks": 368,
+   "capacity": 1025,
+   "stations": 33,
+   "zone": "6e"
+  },
+  {
+   "arr": 7,
+   "mechanical": 571,
+   "ebike": 308,
+   "docks": 236,
+   "capacity": 1145,
+   "stations": 29,
+   "zone": "7e"
+  },
+  {
+   "arr": 8,
+   "mechanical": 389,
+   "ebike": 539,
+   "docks": 952,
+   "capacity": 1959,
+   "stations": 54,
+   "zone": "8e"
+  },
+  {
+   "arr": 9,
+   "mechanical": 276,
+   "ebike": 265,
+   "docks": 688,
+   "capacity": 1267,
+   "stations": 46,
+   "zone": "9e"
+  },
+  {
+   "arr": 10,
+   "mechanical": 168,
+   "ebike": 120,
+   "docks": 1166,
+   "capacity": 1533,
+   "stations": 51,
+   "zone": "10e"
+  },
+  {
+   "arr": 11,
+   "mechanical": 489,
+   "ebike": 122,
+   "docks": 1602,
+   "capacity": 2257,
+   "stations": 57,
+   "zone": "11e"
+  },
+  {
+   "arr": 12,
+   "mechanical": 781,
+   "ebike": 244,
+   "docks": 1799,
+   "capacity": 2849,
+   "stations": 68,
+   "zone": "12e"
+  },
+  {
+   "arr": 13,
+   "mechanical": 904,
+   "ebike": 321,
+   "docks": 1214,
+   "capacity": 2466,
+   "stations": 69,
+   "zone": "13e"
+  },
+  {
+   "arr": 14,
+   "mechanical": 40,
+   "ebike": 102,
+   "docks": 1708,
+   "capacity": 1881,
+   "stations": 54,
+   "zone": "14e"
+  },
+  {
+   "arr": 15,
+   "mechanical": 1501,
+   "ebike": 299,
+   "docks": 1568,
+   "capacity": 3406,
+   "stations": 89,
+   "zone": "15e"
+  },
+  {
+   "arr": 16,
+   "mechanical": 547,
+   "ebike": 295,
+   "docks": 1149,
+   "capacity": 2042,
+   "stations": 61,
+   "zone": "16e"
+  },
+  {
+   "arr": 17,
+   "mechanical": 280,
+   "ebike": 173,
+   "docks": 1634,
+   "capacity": 2173,
+   "stations": 63,
+   "zone": "17e"
+  },
+  {
+   "arr": 18,
+   "mechanical": 46,
+   "ebike": 100,
+   "docks": 1924,
+   "capacity": 2123,
+   "stations": 62,
+   "zone": "18e"
+  },
+  {
+   "arr": 19,
+   "mechanical": 120,
+   "ebike": 153,
+   "docks": 1554,
+   "capacity": 1880,
+   "stations": 62,
+   "zone": "19e"
+  },
+  {
+   "arr": 20,
+   "mechanical": 59,
+   "ebike": 80,
+   "docks": 1710,
+   "capacity": 1874,
+   "stations": 67,
+   "zone": "20e"
+  }
+ ]
+}

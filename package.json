@@ -1,0 +1,16 @@
+{
+  "name": "trajectai",
+  "private": true,
+  "description": "TrajectAI — optimisation explicable des trajets multi-étapes (DataCity EFREI, MOVECITY)",
+  "scripts": {
+    "setup": "npm install && npm install --prefix server && npm install --prefix client",
+    "dev": "concurrently -n api,web -c green,blue \"npm run dev --prefix server\" \"npm run dev --prefix client\"",
+    "build": "npm run build --prefix client",
+    "test": "npm test --prefix server",
+    "refresh-data": "npm run refresh-data --prefix server"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  },
+  "type": "module"
+}

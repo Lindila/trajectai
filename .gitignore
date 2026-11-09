@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.env
+.env.local
+*.log
+.DS_Store
+
+.vercel
+.env*
+
+# Modèles de configuration SANS clés : à partager
+!.env.example
+
+# Fichiers temporaires de Word
+~$*
